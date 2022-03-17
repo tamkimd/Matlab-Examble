@@ -1,5 +1,5 @@
-# approximation-of-nonlinear-function-with-ANN-Matlab-Simulink-
-Approximation of nonlinear function with ANN ( Matlab Simulink )
+# Approximation-of-nonlinear-function-with-ANN-Matlab-Simulink
+Approximation of nonlinear function with ANN (Matlab Simulink)
 
 Ex Function : 0.3*x^2-2*sin(x)+log(x^2+3) with 0<x<10
 ![](Approximation_Function_ANN.png)
